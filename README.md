@@ -30,6 +30,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Play Balance Grid](https://playbalancegrid.com) â˜… - A daily 6x6 binary logic puzzle in English and German: balance each row and column with 0s and 1s.
 - [Connections](https://www.nytimes.com/games/connections) - Group 16 words into four related categories in this daily NYT puzzle.
 - [Globle](https://globle-game.com) - A daily geography guessing game: find the mystery country with proximity hints.
+- [Lie of Sight](https://lieofsight.com) - A free daily logic puzzle: the family each say what they saw in a room, and you move them around to catch whoever's lying.
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country from its silhouette in six tries, with distance and direction clues.
 - [Framed](https://framed.wtf) - Guess the movie from a single frame, with new stills revealed after each miss.
 - [Redactle](https://redactle.net) - Guess a Wikipedia article from its fully redacted text; each solved word unmasks the page.
