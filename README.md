@@ -18,6 +18,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 
 - [2048](https://play2048.co) - The classic sliding-tile number puzzle; join tiles to reach 2048.
 - [0h n0](https://0hn0.com) - A minimalist binary logic puzzle: fill the grid with red and blue tiles under three simple rules.
+- [Play Meowdoku](https://playmeowdoku.com) - A free cat logic puzzle with daily puzzles and practice levels.
 - [The Password Game](https://neal.fun/password-game/) - A puzzle game about creating a password, with rules that escalate into delightful absurdity.
 - [Infinite Craft](https://infinite-craft.com/) - An endless crafting sandbox where you combine elements to discover new ones.
 - [Little Alchemy 2](https://littlealchemy2.com/) - Combine base elements to discover hundreds of items in this charming crafting puzzle.
