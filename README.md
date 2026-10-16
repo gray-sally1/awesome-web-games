@@ -68,6 +68,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Set with Friends](https://setwithfriends.com/) - The classic pattern-recognition card game Set, playable live with friends.
 - [Codenames](https://codenames.game/) - An online version of the hit word-association party game.
 - [World of Solitaire](https://worldofsolitaire.com/) - Over 50 solitaire variants in a clean, no-frills interface.
+- [DeckGames](https://deckgames.io) - Free card and board games against bots, with no account or download needed.
 - [Lexulous](https://www.lexulous.com/) - Scrabble-style word battles against friends or the computer; guest play supported.
 - [Semantle](https://semantle.com/) - Guess the secret word using semantic similarity hints.
 - [The Wiki Game](https://www.thewikigame.com/) - Race from one Wikipedia article to another using only links; daily challenges included.
