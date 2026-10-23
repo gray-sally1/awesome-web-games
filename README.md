@@ -27,6 +27,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 ## Daily
 
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the five-letter word in six tries; the daily word game that started it all.
+- [Plain Game](https://plaingame.fun/) - A daily estimation puzzle: seven timed rounds where you name something close to a target number or estimate a fact.
 - [Play Balance Grid](https://playbalancegrid.com) â˜… - A daily 6x6 binary logic puzzle in English and German: balance each row and column with 0s and 1s.
 - [Connections](https://www.nytimes.com/games/connections) - Group 16 words into four related categories in this daily NYT puzzle.
 - [Globle](https://globle-game.com) - A daily geography guessing game: find the mystery country with proximity hints.
