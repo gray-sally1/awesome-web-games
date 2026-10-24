@@ -26,6 +26,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 
 ## Daily
 
+- [Plain Game](https://plaingame.fun/) - Free daily estimation / Fermi-style game: seven 30-second rounds; Daily, Practice, Discovery; no signup.
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess the five-letter word in six tries; the daily word game that started it all.
 - [Play Balance Grid](https://playbalancegrid.com) â˜… - A daily 6x6 binary logic puzzle in English and German: balance each row and column with 0s and 1s.
 - [Connections](https://www.nytimes.com/games/connections) - Group 16 words into four related categories in this daily NYT puzzle.
