@@ -33,6 +33,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Worldle](https://worldle.teuteuf.fr) - Guess the country from its silhouette in six tries, with distance and direction clues.
 - [Framed](https://framed.wtf) - Guess the movie from a single frame, with new stills revealed after each miss.
 - [Redactle](https://redactle.net) - Guess a Wikipedia article from its fully redacted text; each solved word unmasks the page.
+- [Don't Block Me Quiz](https://dontblockmequiz.net) - Make a 10-question quiz about yourself in a minute, share the link, and see which friends score high enough to avoid being "blocked."
 
 ## Arcade
 
