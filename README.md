@@ -10,6 +10,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Daily](#daily)
 - [Arcade](#arcade)
 - [Idle / Incremental](#idle--incremental)
+- [Simulation](#simulation)
 - [Multiplayer](#multiplayer)
 - [Word & Card](#word--card)
 - [Contributing](#contributing)
@@ -52,6 +53,10 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Trimps](https://trimps.github.io/) - A deep incremental about leading tiny creatures through zones and challenges.
 - [Kittens Game](https://kittensgame.com/) - A village-management incremental with surprising depth, from the stone age to space.
 - [Antimatter Dimensions](https://ivark.github.io/) - A prestige-layer-heavy incremental about producing antimatter across dimensions.
+
+## Simulation
+
+- [Copero](https://copero.games) - Take a football career season by season, from a 16-year-old prospect to retirement at 40, and keep the career card you end up with.
 
 ## Multiplayer
 
