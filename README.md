@@ -79,4 +79,4 @@ A curated list of awesome web games you can play **instantly in your browser** â
 
 ## Contributing
 
-Thanks for helping make this list better! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
