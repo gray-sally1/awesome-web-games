@@ -42,6 +42,7 @@ A curated list of awesome web games you can play **instantly in your browser** â
 - [Subway Surfers](https://poki.com/en/g/subway-surfers) - The iconic endless runner: dodge trains and collect coins.
 - [Run 3](https://player03.com/) - Run and jump through tunnels in space in this beloved endless runner.
 - [Stickman Hook](https://poki.com/en/g/stickman-hook) - Swing a stickman through physics-based levels with a single tap.
+- [Tetherlight](https://neme.world/g/tetherlight) - A one-button swing game: hold to tether to the nearest star, release to fly to the next, and stay ahead of the rising dark.
 
 ## Idle / Incremental
 
